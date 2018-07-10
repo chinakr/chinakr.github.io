@@ -81,7 +81,7 @@ ____________________________________________________________
 
 2) _________________________________________________________
 
-2.(图：Mkie - grocery - Grandma)
+2.(图：Mike - grocery - Grandma)
 
 例：Mike wants to go to the grocery with Grandma. They want to buy some food there.
 
