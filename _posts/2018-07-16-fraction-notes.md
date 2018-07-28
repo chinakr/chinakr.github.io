@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "分数学习笔记"
+title:  "分数笔记"
 date:   2018-07-16 12:00:00 +0800
 categories: 数学
 ---
